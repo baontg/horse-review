@@ -2,14 +2,14 @@
   "ver": "2.1.10",
   "importer": "fbx",
   "imported": true,
-  "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939",
+  "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883",
   "files": [
     "__original-animation-0.cconb"
   ],
   "subMetas": {
     "30732": {
       "importer": "gltf-skeleton",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@30732",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@30732",
       "displayName": "",
       "id": "30732",
       "name": "UnnamedSkeleton-0.skeleton",
@@ -26,7 +26,7 @@
     },
     "49758": {
       "importer": "gltf-material",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@49758",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@49758",
       "displayName": "",
       "id": "49758",
       "name": "lambert16.material",
@@ -42,7 +42,7 @@
     },
     "b1a19": {
       "importer": "gltf-mesh",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@b1a19",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@b1a19",
       "displayName": "",
       "id": "b1a19",
       "name": "horse.mesh",
@@ -59,7 +59,7 @@
     },
     "581a1": {
       "importer": "gltf-mesh",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@581a1",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@581a1",
       "displayName": "",
       "id": "581a1",
       "name": "item.mesh",
@@ -76,7 +76,7 @@
     },
     "7f3dc": {
       "importer": "gltf-animation",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@7f3dc",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@7f3dc",
       "displayName": "",
       "id": "7f3dc",
       "name": "walk.animation",
@@ -99,7 +99,7 @@
     },
     "f1394": {
       "importer": "gltf-skeleton",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@f1394",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@f1394",
       "displayName": "",
       "id": "f1394",
       "name": "UnnamedSkeleton-1.skeleton",
@@ -116,7 +116,7 @@
     },
     "aedd7": {
       "importer": "gltf-material",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@aedd7",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@aedd7",
       "displayName": "",
       "id": "aedd7",
       "name": "Default_Material1.material",
@@ -132,7 +132,7 @@
     },
     "9841d": {
       "importer": "gltf-scene",
-      "uuid": "33cbdb4d-415b-40de-a586-eb9e6a93a939@9841d",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@9841d",
       "displayName": "",
       "id": "9841d",
       "name": "Ngua_walk.prefab",
@@ -165,23 +165,23 @@
         ]
       }
     ],
-    "redirect": "33cbdb4d-415b-40de-a586-eb9e6a93a939@9841d",
+    "redirect": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@9841d",
     "assetFinder": {
       "meshes": [
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@b1a19",
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@581a1"
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@b1a19",
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@581a1"
       ],
       "skeletons": [
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@30732",
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@f1394"
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@30732",
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@f1394"
       ],
       "textures": [],
       "materials": [
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@49758",
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@aedd7"
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@49758",
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@aedd7"
       ],
       "scenes": [
-        "33cbdb4d-415b-40de-a586-eb9e6a93a939@9841d"
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@9841d"
       ]
     }
   }

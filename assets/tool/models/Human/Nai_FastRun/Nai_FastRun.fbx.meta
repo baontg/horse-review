@@ -2,14 +2,14 @@
   "ver": "2.1.10",
   "importer": "fbx",
   "imported": true,
-  "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a",
+  "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851",
   "files": [
     "__original-animation-0.cconb"
   ],
   "subMetas": {
     "30732": {
       "importer": "gltf-skeleton",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@30732",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@30732",
       "displayName": "",
       "id": "30732",
       "name": "UnnamedSkeleton-0.skeleton",
@@ -26,7 +26,7 @@
     },
     "ea708": {
       "importer": "gltf-mesh",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@ea708",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@ea708",
       "displayName": "",
       "id": "ea708",
       "name": "Nai_2_whip_geo.mesh",
@@ -43,7 +43,7 @@
     },
     "76c13": {
       "importer": "gltf-mesh",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@76c13",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@76c13",
       "displayName": "",
       "id": "76c13",
       "name": "Nai_2_body_geo.mesh",
@@ -58,19 +58,19 @@
       ],
       "subMetas": {}
     },
-    "c0328": {
+    "acc7e": {
       "importer": "gltf-animation",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@c0328",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@acc7e",
       "displayName": "",
-      "id": "c0328",
-      "name": "HitFastRun.animation",
+      "id": "acc7e",
+      "name": "FastRun.animation",
       "userData": {
         "gltfIndex": 0,
         "wrapMode": 2,
         "sample": 30,
         "span": {
           "from": 0,
-          "to": 0.6666666865348816
+          "to": 0.3333333432674408
         },
         "events": []
       },
@@ -83,7 +83,7 @@
     },
     "f1394": {
       "importer": "gltf-skeleton",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@f1394",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@f1394",
       "displayName": "",
       "id": "f1394",
       "name": "UnnamedSkeleton-1.skeleton",
@@ -100,7 +100,7 @@
     },
     "42f41": {
       "importer": "gltf-material",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@42f41",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@42f41",
       "displayName": "",
       "id": "42f41",
       "name": "Nai_2_mtl.material",
@@ -114,12 +114,12 @@
       ],
       "subMetas": {}
     },
-    "dc2f7": {
+    "86f16": {
       "importer": "gltf-scene",
-      "uuid": "992167f8-09cf-411f-ba59-5b7464a6803a@dc2f7",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16",
       "displayName": "",
-      "id": "dc2f7",
-      "name": "Nai_HitFastRun.prefab",
+      "id": "86f16",
+      "name": "Nai_FastRun.prefab",
       "userData": {
         "gltfIndex": 0
       },
@@ -137,34 +137,34 @@
     "animationImportSettings": [
       {
         "name": "Take 001",
-        "duration": 0.6666666865348816,
+        "duration": 0.3333333432674408,
         "fps": 30,
         "splits": [
           {
-            "name": "HitFastRun",
+            "name": "FastRun",
             "from": 0,
-            "to": 0.6666666865348816,
+            "to": 0.3333333432674408,
             "wrapMode": 2
           }
         ]
       }
     ],
-    "redirect": "992167f8-09cf-411f-ba59-5b7464a6803a@dc2f7",
+    "redirect": "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16",
     "assetFinder": {
       "meshes": [
-        "992167f8-09cf-411f-ba59-5b7464a6803a@ea708",
-        "992167f8-09cf-411f-ba59-5b7464a6803a@76c13"
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@ea708",
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@76c13"
       ],
       "skeletons": [
-        "992167f8-09cf-411f-ba59-5b7464a6803a@30732",
-        "992167f8-09cf-411f-ba59-5b7464a6803a@f1394"
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@30732",
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@f1394"
       ],
       "textures": [],
       "materials": [
-        "992167f8-09cf-411f-ba59-5b7464a6803a@42f41"
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@42f41"
       ],
       "scenes": [
-        "992167f8-09cf-411f-ba59-5b7464a6803a@dc2f7"
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16"
       ]
     }
   }

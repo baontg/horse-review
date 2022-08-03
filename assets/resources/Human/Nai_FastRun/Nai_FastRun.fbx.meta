@@ -2,14 +2,14 @@
   "ver": "2.1.10",
   "importer": "fbx",
   "imported": true,
-  "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851",
+  "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4",
   "files": [
     "__original-animation-0.cconb"
   ],
   "subMetas": {
     "30732": {
       "importer": "gltf-skeleton",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@30732",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@30732",
       "displayName": "",
       "id": "30732",
       "name": "UnnamedSkeleton-0.skeleton",
@@ -26,7 +26,7 @@
     },
     "ea708": {
       "importer": "gltf-mesh",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@ea708",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@ea708",
       "displayName": "",
       "id": "ea708",
       "name": "Nai_2_whip_geo.mesh",
@@ -43,7 +43,7 @@
     },
     "76c13": {
       "importer": "gltf-mesh",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@76c13",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@76c13",
       "displayName": "",
       "id": "76c13",
       "name": "Nai_2_body_geo.mesh",
@@ -60,7 +60,7 @@
     },
     "acc7e": {
       "importer": "gltf-animation",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@acc7e",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@acc7e",
       "displayName": "",
       "id": "acc7e",
       "name": "FastRun.animation",
@@ -83,7 +83,7 @@
     },
     "f1394": {
       "importer": "gltf-skeleton",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@f1394",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@f1394",
       "displayName": "",
       "id": "f1394",
       "name": "UnnamedSkeleton-1.skeleton",
@@ -100,7 +100,7 @@
     },
     "42f41": {
       "importer": "gltf-material",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@42f41",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@42f41",
       "displayName": "",
       "id": "42f41",
       "name": "Nai_2_mtl.material",
@@ -116,7 +116,7 @@
     },
     "86f16": {
       "importer": "gltf-scene",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16",
+      "uuid": "91454db5-6cf1-419a-b661-471b5412b6f4@86f16",
       "displayName": "",
       "id": "86f16",
       "name": "Nai_FastRun.prefab",
@@ -149,22 +149,22 @@
         ]
       }
     ],
-    "redirect": "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16",
+    "redirect": "91454db5-6cf1-419a-b661-471b5412b6f4@86f16",
     "assetFinder": {
       "meshes": [
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@ea708",
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@76c13"
+        "91454db5-6cf1-419a-b661-471b5412b6f4@ea708",
+        "91454db5-6cf1-419a-b661-471b5412b6f4@76c13"
       ],
       "skeletons": [
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@30732",
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@f1394"
+        "91454db5-6cf1-419a-b661-471b5412b6f4@30732",
+        "91454db5-6cf1-419a-b661-471b5412b6f4@f1394"
       ],
       "textures": [],
       "materials": [
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@42f41"
+        "91454db5-6cf1-419a-b661-471b5412b6f4@42f41"
       ],
       "scenes": [
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16"
+        "91454db5-6cf1-419a-b661-471b5412b6f4@86f16"
       ]
     }
   }
