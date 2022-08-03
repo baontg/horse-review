@@ -85,3 +85,4 @@ alo/
 engine/
 /.git.meta
 _develop/
+.history
