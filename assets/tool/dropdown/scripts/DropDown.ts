@@ -1,6 +1,6 @@
 import DropDownOptionData from "./DropDownOptionData";
 import DropDownItem from "./DropDownItem";
-import { _decorator, Component, Label, Sprite, js, error, Toggle, instantiate, Node, UITransform, EventHandler } from "cc";
+import { _decorator, Component, Label, Sprite, error, Toggle, instantiate, Node, UITransform, EventHandler } from "cc";
 
 const { ccclass, property } = _decorator;
 
@@ -29,6 +29,9 @@ export default class DropDown extends Component {
     }
     public set selectedIndex(value: number) {
         this._selectedIndex = value;
+        if (this.selectEvents) {
+            EventHandler.emitEvents(this.selectEvents, this);
+        }
         this.refreshShownValue();
     }
 
@@ -63,6 +66,7 @@ export default class DropDown extends Component {
     public setOptionDatas(optionDatas: any[]) {
         this.optionDatas = [];
         this.addOptionDatas(optionDatas);
+        this.selectedIndex = 0;
     }
 
     public clearOptionDatas() {
@@ -227,9 +231,6 @@ export default class DropDown extends Component {
         for (let i = 0; i < parent.children.length; i++) {
             if (parent.children[i] == toggle.node) {
                 this.selectedIndex = i - 1;
-                if (this.selectEvents) {
-                    EventHandler.emitEvents(this.selectEvents, this);
-                }
                 break;
             }
         }
@@ -242,6 +243,10 @@ export default class DropDown extends Component {
         } else {
             this.hide();
         }
+    }
+
+    private checkClickOut() {
+        
     }
 
     start() {

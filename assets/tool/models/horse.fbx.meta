@@ -130,12 +130,12 @@
       ],
       "subMetas": {}
     },
-    "9841d": {
+    "282ef": {
       "importer": "gltf-scene",
-      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@9841d",
+      "uuid": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@282ef",
       "displayName": "",
-      "id": "9841d",
-      "name": "Ngua_walk.prefab",
+      "id": "282ef",
+      "name": "horse.prefab",
       "userData": {
         "gltfIndex": 0
       },
@@ -165,7 +165,7 @@
         ]
       }
     ],
-    "redirect": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@9841d",
+    "redirect": "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@282ef",
     "assetFinder": {
       "meshes": [
         "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@b1a19",
@@ -181,7 +181,7 @@
         "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@aedd7"
       ],
       "scenes": [
-        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@9841d"
+        "cbbd2f4b-8b92-4b18-ba00-2a3fda68f883@282ef"
       ]
     }
   }

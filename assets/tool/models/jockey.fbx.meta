@@ -114,12 +114,12 @@
       ],
       "subMetas": {}
     },
-    "86f16": {
+    "7bc6d": {
       "importer": "gltf-scene",
-      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16",
+      "uuid": "38c4eb31-4cac-4504-a7aa-d1de6912f851@7bc6d",
       "displayName": "",
-      "id": "86f16",
-      "name": "Nai_FastRun.prefab",
+      "id": "7bc6d",
+      "name": "jockey.prefab",
       "userData": {
         "gltfIndex": 0
       },
@@ -149,7 +149,7 @@
         ]
       }
     ],
-    "redirect": "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16",
+    "redirect": "38c4eb31-4cac-4504-a7aa-d1de6912f851@7bc6d",
     "assetFinder": {
       "meshes": [
         "38c4eb31-4cac-4504-a7aa-d1de6912f851@ea708",
@@ -164,7 +164,7 @@
         "38c4eb31-4cac-4504-a7aa-d1de6912f851@42f41"
       ],
       "scenes": [
-        "38c4eb31-4cac-4504-a7aa-d1de6912f851@86f16"
+        "38c4eb31-4cac-4504-a7aa-d1de6912f851@7bc6d"
       ]
     }
   }
